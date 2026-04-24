@@ -1,2 +1,2 @@
 # Programa de ejemplo
-print("Hola desde Git en terminal")
+print("MAIN - Sistema base modificado")
