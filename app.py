@@ -1,7 +1,3 @@
 # Programa de ejemplo
-<<<<<<< HEAD
-print("MAIN - Sistema base modificado")
-=======
-print("RAMA 1 - Registro usuarios")
+print("MAIN - Nueva modificacion importante")
 
->>>>>>> rama1
