@@ -1,6 +1,6 @@
 # Programa de ejemplo
 <<<<<<< HEAD
-print("MAIN - Nueva modificacion importante")
+print("Cambio personal del estudiante")
 
 =======
 print("RAMA 3 - Panel administrativo")
